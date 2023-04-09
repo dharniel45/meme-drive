@@ -15,8 +15,8 @@ My Motivation is to build something thagt demonstrate the data permanence that A
 
 ## Resources
 
-[Bundlr Docs](https://docs.bundlr.network/)
-[Arweave](https://www.arweave.org/)
-[Arweave Cookbook](https://cookbook.arweave.dev/)
+- [Bundlr Docs](https://docs.bundlr.network/)
+- [Arweave](https://www.arweave.org/)
+- [Arweave Cookbook](https://cookbook.arweave.dev/)
 
 
