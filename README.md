@@ -11,7 +11,7 @@ This repository is a side project to create a means to generate memes to the fro
 
 ## Motivation
 
-My Motivation is to build something thagt demonstrate the data permanence that Arweave brings to the web3 ecosysytem.
+My Motivation is to build something that demonstrate the data permanence that Arweave brings to the web3 ecosystem.
 
 ## Resources
 
